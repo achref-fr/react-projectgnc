@@ -1,0 +1,19 @@
+{
+  "products": [{
+    "title": "a",
+    "author": "a"
+  },
+  {
+    "title": "f",
+    "author": "ff"
+  }],
+  "users": [
+    {
+        "username": "d",
+        "password": "d",
+        "email": "d",
+        "firstName": "d",
+        "lastName": "d",
+        "id": 1
+    }]
+}
